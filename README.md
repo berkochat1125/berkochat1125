@@ -7,9 +7,7 @@
 <div align="center"> 
   <a href="https://www.youtube.com/@Berkochat/videos" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
-  <a href="https://twitter.com/hanzelkaraagac">
-   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
-  </a>
+  
   
   <a href="https://discord.gg/nSurjuha9E" target="_blank">
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
